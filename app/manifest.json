@@ -1,0 +1,20 @@
+{
+  "name": "Copa BV Kart",
+  "short_name": "Copa BV",
+  "icons": [
+    {
+      "src": "img/icons/vrum.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/android-icon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F05F40",
+  "theme_color": "#F05F40"
+}
